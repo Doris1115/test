@@ -4,3 +4,10 @@ function add()
     add: 'add'
   }
 }
+
+function update()
+{
+  return {
+    updata: 'update'
+  }
+}
