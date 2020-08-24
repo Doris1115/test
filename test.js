@@ -8,6 +8,6 @@ function add()
 function del()
 {
   return {
-    del: 'del'
+    del: 'del00'
   }
 }
