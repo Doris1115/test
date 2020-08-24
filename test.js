@@ -4,3 +4,10 @@ function add()
     add: 'add'
   }
 }
+
+function del()
+{
+  return {
+    del: 'del'
+  }
+}
